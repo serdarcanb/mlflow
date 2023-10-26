@@ -341,3 +341,9 @@ helm unittest --helm3 --strict --file unittests/*.yaml --file unittests/**/*.yam
 | Name | Email | Url |
 | ---- | ------ | --- |
 | burakince | <burak.ince@linux.org.tr> | <https://www.burakince.net> |
+
+## Updated
+
+| Name | Email | Url |
+| ---- | ------ | --- |
+| serdarcanb | <serdarcanbuyukdereli@gmail.com> | <https://www.serdarcanb.github.io> |
