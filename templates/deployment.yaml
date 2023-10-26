@@ -99,6 +99,7 @@ spec:
             - server
             - --host=0.0.0.0
             - --port={{ .Values.service.port }}
+            - --serve-artifacts
           {{- if .Values.backendStore.postgres.enabled }}
             - --backend-store-uri=postgresql{{ $dbConnectionDriver }}://
           {{- else if .Values.backendStore.mysql.enabled }}
