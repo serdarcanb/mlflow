@@ -92,7 +92,7 @@ backendStore:
 
   mysql:
     # -- Specifies if you want to use mysql backend storage
-    enabled: false
+    enabled: true
     # -- MySQL host address. e.g. your Amazon RDS for MySQL
     host: "mlops-mlflow-mysql" # required
     # -- MySQL service port
