@@ -346,4 +346,4 @@ helm unittest --helm3 --strict --file unittests/*.yaml --file unittests/**/*.yam
 
 | Name | Email | Url |
 | ---- | ------ | --- |
-| serdarcanb | <serdarcanbuyukdereli@gmail.com> | <https://www.serdarcanb.github.io> |
+| serdarcanb | <serdarcanbuyukdereli@gmail.com> | <https://serdarcanb.github.io> |
